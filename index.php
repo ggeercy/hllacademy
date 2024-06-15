@@ -28,7 +28,6 @@ if(isset($_GET['go'])) {
     ?>
 
 
-text/x-generic index.php ( HTML document, UTF-8 Unicode text, with very long lines )
 <!doctype html>
 <html lang="en">
 
